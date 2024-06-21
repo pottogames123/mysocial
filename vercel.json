@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/**/*": {
+      "handler": "path/to/your/django_handler"
+    }
+  }
+}
